@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+/**source manager*/
+.pic_iconCss{background:url(../images/imgPanel.png) no-repeat scroll -151px -81px transparent; }
+.video_iconCss{background:url(../images/imgPanel.png) no-repeat scroll -186px -75px transparent; }
+.audio_conCss{background:url(../images/imgPanel.png) no-repeat scroll -170px -63px transparent;}
+.flash_iconCss{background:url(../images/imgPanel.png) no-repeat scroll -151px -61px transparent; }
+.netpage_IconCss{background:url("../images/imgPanel.png") no-repeat scroll -170px -85px transparent;}
+.goods_IconCss{background:url("../images/imgPanel.png") no-repeat scroll -93px -28px transparent;}
+.ladingnumber_IconCss{background:url("../images/imgPanel2.png") no-repeat scroll -298px -401px  transparent;}
+.rfid_IconCss{background:url("../images/imgPanel1.png") no-repeat scroll -0px -0px transparent;}
+.wechatuser_IconCss{background:url("../images/imgPanel1.png") no-repeat scroll -20px -0px  transparent;}
+
+.msg_IconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -215px -57px transparent; }
+.rss_IconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -216px -79px transparent; }
+.weather_IconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -193px -80px transparent; }
+.iBeaconE_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -293px -300px transparent;}
+.iBeaconP_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -290px -280px transparent;}
+.wechatCoupon_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -485px -238px transparent;}
+/**itembar manager */
+.miconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -280px -57px transparent; }
+.tempCss{ background:url(../images/imgPanel2.png) no-repeat scroll -400px -465px  transparent; }
+.pubIonCss{ background:url(../images/imgPanel2.png) no-repeat scroll -249px -55px transparent;}
+.pubHisIonCss{ background:url(../images/imgPanel2.png) no-repeat scroll -248px -249px transparent;}
+.diconCss{background:url(../images/imgPanel.png) no-repeat scroll -3px -29px transparent; }
+.deiconCss{background:url(../images/imgPanel.png) no-repeat scroll -2px -52px transparent;}
+.biconCss{background:url(../images/imgPanel.png) no-repeat scroll -2px -75px transparent; }
+.createIconCss{background:url(../images/imgPanel.png) no-repeat scroll -87px -65px transparent;}
+.editTabIconCss{background:url(../images/imgPanel2.png) no-repeat scroll -215px -103px transparent;}
+.weiProgramCss{background:url(../images/imgPanel.png) no-repeat scroll -93px -2px transparent;}
+
+/*system*/
+.version_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -192.5px -264px transparent; }
+.sysInforIonCss{ background:url(../images/imgPanel2.png) no-repeat scroll -248px -296px transparent;}
+.sysAuthIconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -313px -252px transparent; }
+.sysUpdateIonCss{ background:url(../images/imgPanel2.png) no-repeat scroll -273px -272px transparent;}
+.opratLogIonCss{ background:url(../images/imgPanel2.png) no-repeat scroll -248px -272px transparent;}
+.clusterManageIonCss{ background:url(../images/imgPanel2.png) no-repeat scroll -272px -296px transparent;}
+.sysSettingCss{background:url(../images/other/icons/setting.png);}
+.firm_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -292px -263px transparent;}
+.backups_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -273px -272px transparent;}
+/* .backups_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -481px -140px  transparent;} */
+/*terminal*/
+.monitor_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -192.5px -288px transparent; }
+.groupTerminal_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -215px -264px transparent; }
+.activate_conCss{ background:url(../images/imgPanel2.png) no-repeat scroll -216.2px -288px transparent; }
+.historyIcon{background:url(../images/history.png)}
+.gameOutRec_iconCss{ background:url(../images/imgPanel1.png) no-repeat scroll -145px -40px  transparent; }
+/*auth*/
+.compnay_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -193px -312px transparent; }
+.netElement_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -216px -312px transparent; }
+.role_conCss{ background:url(../images/imgPanel2.png) no-repeat scroll  -191px -335px transparent; }
+.users_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -191px -359px transparent; }
+.custom_IconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -216.5px -335px transparent; }
+.wechat_IconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -299px -455px transparent; }
+.alipay_IconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -298px -416px transparent; }
+.webinding{background:url(../images/imgPanel2.png) no-repeat scroll -481px -301px transparent; }
+.pnameCss{ color: #3E3EFF; cursor: pointer;}
+
+/***statistics***/
+.trade_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -149px -367px transparent; }
+.orders_iconCss{ background:url(../images/imgPanel2.png) no-repeat scroll -149px -367px transparent; }
+/**file upload*/
+.uploadIconCss{background:url(../images/imgPanel2.png) no-repeat scroll -216px -33px transparent; }
+.addFolderIconCss{background:url(../images/imgPanel2.png) no-repeat scroll -299px -433px transparent; }
+.load_btn_word_css{ color:#6699FF; font-size: 12px; }
+.load_btn_word_css:hover{color: orange; text-decoration: underline}
+.clear_filelist_IconCls{background:url(../images/imgPanel2.png) no-repeat scroll -9px -479px transparent; }
+.priceStrategyIconCss{
+	background:url(../images/app/price_strategy.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+/**panel ico*/
+.qrpanel_logo{
+	background:url(../images/imgPanel1.png)  no-repeat scroll -89px -1px  transparent;
+}
+.shareAdvertManageIconCss{
+	background:url(../images/app/shareAdvertManageIcon.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.advertisingConfigurationIconCss{
+	background:url(../images/app/advertisingConfigurationIcon.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.faultStatictisCls{
+	background:url(../images/app/falutStatictisIcon.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.faultQueryCls{
+	background:url(../images/app/faultQueryIcon.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.faultDescCls{
+	background:url(../images/app/falutDescIcon.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.aggpayIconCss{
+	background:url(../images/app/icon_aggpay.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.jdpayIconCss{
+	background:url(../images/app/icon_jdpay.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.sbpayIconCss{
+	background:url(../images/app/icon_sbpay.png) no-repeat transparent;
+	background-size: 16px 16px;
+}
+.tepmAndPhIconCss{   background:url(../images/imgPanel2.png) no-repeat scroll -276px -452px transparent;}

@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+/**gloable*/
+*{margin:0;padding:0}
+body,html{background-color: #fff; color: #000; font-family: 微软雅黑,宋体, arial, Times, serif; font-weight: normal; line-height: 1.22; height: 100%;}
+table, div, ul, li, h1, h2, form, fieldset, input, p, th, td {font-size: 12px; font-weight: normal; border-collapse: collapse; white-space:nowrap;}
+ul , li, em{list-style: none; display: block;}
+img{ border:0;}
+
+.commonPanelShadowCss{
+	border: #909090 1px solid;
+	background: #fff;
+	color: #333;
+	filter:progid: DXImageTransform.Microsoft.Shadow(color=#909090,direction=120,strength=1);/*ie*/
+	-moz-box-shadow: 1px 1px 5px #909090;/*firefox*/
+	-webkit-box-shadow: 1px 1px 5px #909090;/*safari或chrome*/
+	box-shadow:1px 1px 5px #909090;/*opera或ie9*/
+}
+
+.pnameCss{ color: #3E3EFF; cursor: pointer; display: block; text-decoration: none;}
+.pnameCss:hover{ color: orange; text-decoration: underline;}
+
+.ul_speart{list-style:none;margin:0;padding:0;height: 100%}
+.ul_speart .top{margin:0;padding:0;background: url(../images/other/sep1.jpg) no-repeat;display:block;width:1px;height:10px}
+.ul_speart .center{margin:0;padding:0;background: url(../images/other/sep2.jpg) repeat-y;display:block;width:1px;height:100%}
+.ul_speart .bottom{margin:0;padding:0;background: url(../images/other/sep3.jpg) no-repeat;display:block;width:1px;height:10px}
+
+
+.pback_reset_IconCls{background:url(../images/imgPanel2.png) no-repeat scroll -49px -481px transparent; }
+.pback_finish_IconCls{background:url(../images/imgPanel2.png) no-repeat scroll -68px -482px transparent; }
+.pbacks_det_IconCls{background:url(../images/imgPanel2.png) no-repeat scroll -255px -400px transparent; }
+.pbacks_add_IconCls{background:url(../images/imgPanel2.png) no-repeat scroll -257px -377px transparent;  }
