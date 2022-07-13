@@ -1,0 +1,13 @@
+@charset "utf-8";
+.delIconCss{background:url(../../../images/imgPanel.png) no-repeat scroll -63px -83px transparent;}
+.tabIconCss{background:url(../../../images/imgPanel.png) no-repeat scroll -32px -81px transparent;}
+.addIconCss{  background:url(../../../images/imgPanel2.png) no-repeat scroll -215px -128px transparent;  }
+.refreshIconCss{background:url(../../../images/imgPanel2.png) no-repeat scroll -193px -34px transparent; }
+.advanceIconCss{ background:url(../../../images/imgPanel2.png) no-repeat scroll  -279px -152px  transparent;  margin: 0 5px 0 5px}
+
+.editIconCss{  background:url(../../../images/imgPanel2.png) no-repeat scroll -215px -103px transparent;  margin: 0 5px 0 5px}
+.removeIconCss{  background:url(../../../images/imgPanel2.png) no-repeat scroll -191px -127px transparent;  margin: 0 5px 0 5px}
+.searchIconCss{background:url(../../../images/imgPanel2.png) no-repeat scroll -188px -5px transparent; }
+.sortBut_ASC{background:url(../../../images/imgPanel2.png) no-repeat scroll -104px -368px transparent; }
+.sortBut_DESC{background:url(../../../images/imgPanel2.png) no-repeat scroll -128px -368px transparent;}
+.queryIconCss{  background:url(../../../images/imgPanel2.png) no-repeat scroll -192px -102px transparent;  }

@@ -1,0 +1,160 @@
+.conbody {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.leftCon {
+	float: left;
+	margin-left: 4px;
+	height: 606px;
+	width: 230px;
+	background-color: #fff;
+	overflow-y: auto;
+	border: 1px solid #e5e5e5;
+	z-index: 5;
+	margin-bottom: 25px;
+}
+
+.centerCon {
+	float: right;
+	margin-right: 0px;
+	width: 840px;
+	height: 560px;
+}
+
+.searchBox {
+	position: relative;
+	padding: 30px 44px;
+	border-bottom: 1px solid #f5f5f5;
+}
+
+.kf_mod_searchBox {
+	width: 660px;
+	position: relative;
+}
+
+.searchBar {
+	width: 100%;
+	height: 40px;
+	position: relative;
+	background-color: #fff;
+}
+
+#search_content {
+	padding: 18px 45px;
+	height: 100%;
+	overflow: hidden;
+}
+
+.tx_search_on {
+	border: 1px solid #dedede;
+	background-color: transparent;
+	height: 38px;
+	line-height: 38px;
+	width: 87%;
+	padding-left: 2%;
+	padding-right: 10%;
+	font-size: 14px;
+	color: #666;
+	-webkit-transition: border-color .3s;
+	transition: border-color .3s;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.icon-search {
+	font-family: iconfont !important;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke-width: .2px;
+	width: 45px;
+	height: 38px;
+	position: absolute;
+	right: 41px;
+	top: 0;
+	display: inline-block;
+	border: none;
+	cursor: pointer;
+	color: #fff;
+}
+
+#thirdtl {
+	padding: 18px 45px;
+	overflow: hidden;
+}
+
+.shoushi {
+	cursor: pointer;
+}
+
+.titlestyle {
+	font-size: 15px;
+	line-height: 30px;
+}
+
+.search_key_suggest {
+	background-color: #fff;
+	position: absolute;
+	top: 38px;
+	left: 1px;
+	width: 574px;
+	border: 1px solid #eee;
+	box-shadow: 0 2px 3px #cdcdcd;
+	border-radius: 2px;
+	z-index: 3;
+}
+
+.search_key_suggest ul li a { /* height: 22px; */
+	line-height: 22px;
+	padding: 3px 0;
+	display: block;
+	width: 100%;
+	text-indent: 10px;
+}
+
+.search_key_suggest ul li a:hover {
+	color: #555;
+	background-color: #eee;
+	text-decoration: none;
+}
+
+.show_position {
+	padding-top: 10px;
+	font-size: 15px;
+	position: absolute;
+}
+
+.show_position a {
+	cursor: pointer;
+}
+
+#addfaq {
+	padding: 0;
+}
+
+#addfaq li {
+	list-style: none;
+}
+
+.switchcode {
+	width: 50px;
+	height: 50px;
+	background: url(../../images/other/switchcode.png) no-repeat scroll -0 0
+		transparent;
+	margin-left: 80px;
+	cursor: pointer;
+}
+
+.rigistDiv ul li .switchredcode {
+	cursor: text;
+	border: none;
+	width: 120px;
+	height: 100%;
+	background: transparent;
+	color: #3bf718;
+	font-size: 14px;
+}

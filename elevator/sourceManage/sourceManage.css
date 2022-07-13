@@ -1,0 +1,44 @@
+@charset "utf-8";
+.searchIconCss{background:url("../../../images/imgPanel2.png") no-repeat scroll -188px -5px transparent; }
+
+.queryIconCss{  background:url("../../../images/imgPanel2.png") no-repeat scroll -192px -102px transparent;  }
+.tabIconCss{background:url("../../../images/imgPanel.png") no-repeat scroll -32px -81px transparent;}
+
+.editIconCss{  background:url("../../../images/operationImg/preview.png") no-repeat center;background-size:80% 80%;margin-right: 2px; }
+.removeIconCss{  background:url("../../../images/operationImg/no_pass.png") no-repeat center;background-size:80% 80%;margin: 4px 2px 2px 0px; }
+.auditIconCss{  background:url(../../../images/operationImg/wait_check.png)  no-repeat center;background-size:80% 80%;margin-right: 2px; }
+.publishedCss{background:url(../../../images/operationImg/pass.png)  no-repeat center;background-size:80% 80%;margin-right: 2px; }
+.linkButTxtCls{display: block; color: #1D6FB8; font-family: 微软雅黑,宋体;font-size: 12px; text-decoration: none;}
+.linkButTxtCls:hover{color: orange; text-decoration: underline;}
+
+/**displayfield*/
+.labelCls_1{text-align: right;  font-size: 12px; color: #0E445F;margin-left: 3px; width: 100%;}
+
+.labelCls_10{ font-size: 13px; color: #0E445F;}
+.labelValueCls_10{  font-size: 12px; color: #27A4E0 }
+
+.labelCls{ text-align: right;padding:5px; font-size: 12px; color: #0E445F }
+.labelValueCls{ text-align: left;  font-size: 12px; color: #27A4E0 }
+.childUserCls{ border: 1px solid transparent; border-bottom: 1px solid orange;background: transparent}
+.childUserOverCls{ border: 1px dashed orange; background: white}
+
+.headerCls{width: 80px; height: 80px; border: none;-webkit-border-radius:40px;border-radius:40px;-moz-border-radius:40px;-o-border-radius:40px;-ms-border-radius:40px;}
+
+.textareaCls{background-color: transparent;}
+.textareaCls .x-form-text {padding:0 0 0 4px;}
+.textareaCls .x-form-textarea {background-color: transparent;border: none;overflow-x: hidden; color: #27A4E0}
+
+.childUserGridBodyCls .x-grid-row-alt .x-grid-td{background-color: transparent;}
+.childUserGridBodyCls .x-grid-cell{background-color: transparent;}
+.childUserGridBodyCls .x-grid-row-before-over{background-color: transparent;}
+.refreshIconCss{background:url(../../../images/imgPanel2.png) no-repeat scroll -193px -34px transparent; }
+.labelCls{font-size: 12px; color: #0E445F;}
+.fieldBodyCls .x-form-text{font-size: 12px; color: #525252; border: none; background: transparent; border-bottom: 1px solid gray;}
+.baseBodyCls .x-form-item-input-row .x-field-label-cell{text-align: right}
+.detailIconCss{  background:url(../../../images/imgPanel2.png) no-repeat scroll -289px -352px transparent;  margin: 0 5px 0 5px}
+
+.ctrlULCls{list-style: none;margin:0;padding:0}
+.ctrlULCls li{float:left;margin-right: 6px}
+.ctrlULCls li span{width: 18px; height: 18px; display: block;float:left;}
+.ctrlULCls li a{float:left;font-size: 12px; font-family: 微软雅黑,宋体; text-decoration: none; color: #3E3EFF; display: block}
+.ctrlULCls li a:hover{text-decoration: underline; color: orange}
