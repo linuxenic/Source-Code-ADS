@@ -1,0 +1,1 @@
+{"tid":"80908","details":[{"date":"2018-08-22","run_time":4750,"online_time":4720},{"date":"2018-08-21","run_time":15260,"online_time":15150}]}

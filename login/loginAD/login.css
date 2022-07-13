@@ -1,0 +1,192 @@
+@charset "utf-8";
+body,html{background-position:center center;background-repeat: no-repeat;background-attachment: scroll;text-align:center; height: 100%; width: 100%;}
+.alphaBack{background: transparent;}
+.panelBodyCls{background: url(../../../images/systemVersion/AD/backg02.png);}
+
+.panelBodyCls_noads_juli{background: url(../../../images/systemVersion/AD/backgjl.png);}
+
+.apkPanelBodyCls{background: white;Filter:alpha(opacity=70);Opacity:0.7;  -webkit-border-radius: 5px;-moz-border-radius:5px;	-ms-border-radius: 5px;-o-border-radius:5px;border-radius:5px;}
+.loginImgIconCss{background:url(../../../images/imgPanel2.png) no-repeat scroll -232px 17px  transparent;}
+.eweIconCss{background:url(../../../images/systemVersion/weChat/ewm.png) no-repeat scroll  transparent;}
+.cprt{color: #545454; font-size: 12px; display:inline-block;line-height: 25px;height: 25px;}
+.cprtc{color: #545454; font-size: 12px; font-family: 微软雅黑;line-height: 25px;height: 25px;display:inline-block;}
+
+.loginLogoIconCss_azld{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/azld.png) no-repeat scroll center center  transparent;background-size:87px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_cn{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_cn.png) no-repeat scroll center center  transparent;background-size:87px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_kr{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_cn.png) no-repeat scroll center center  transparent;background-size:87px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_sct{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_sct.png) no-repeat scroll center center  transparent;background-size:87px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_xj{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_xj.png) no-repeat scroll center center  transparent;background-size:87px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_weishi{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_shiwei.png) no-repeat scroll center center  transparent;}
+.loginLogoIconCss_ct{width: 87px;height: 53px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_ct.png) no-repeat scroll center center  transparent;}
+.loginLogoIconCss_zysxc_cn{width: 87px;height: 53px;margin: 30px 0px 0px 151px;background:url(../../../images/other/loginLogo_zysx_cn.png) no-repeat scroll center center  transparent;background-size:191px 65px;-moz-background-size:182px 65px;}
+.loginLogoIconCss_zysxc_en{width: 87px;height: 53px;margin: 30px 0px 0px 154px;background:url(../../../images/other/loginLogo_zysx_en.png) no-repeat scroll center center  transparent;background-size:101px 72px;-moz-background-size:101px 72px;}
+.loginLogoIconCss_brezze{width: 87px;height: 64px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_brezze.png) no-repeat scroll center center  transparent;background-size:87px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_hemai{width: 87px;height: 64px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_hemai.png) no-repeat scroll center center  transparent;background-size:113px 61px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_cybersys{width: 87px;height: 64px;margin: 25px 0px 0px 153px;background:url(../../../images/other/loginLogo_cybersys.png) no-repeat scroll center center  transparent;background-size:109px 53px;-moz-background-size:87px 53px;}
+.loginLogoIconCss_jl{width: 145px;height: 67px;margin: 23px 0px 0px 132px;background:url(../../../images/other/loginLogo_jl.png) no-repeat scroll center center  transparent;background-size:208px 68px;-moz-background-size:208px 68px;}
+
+.loginLogoIconCss_sds_en{width: 87px;height: 53px;margin: 30px 0px 0px 150px;background:url(../../../images/other/loginLogo_sds_en.png) no-repeat scroll center center  transparent;background-size:125px 59px;-moz-background-size:101px 72px;}
+.loginLogoIconCss_konka{height: 60px;width: 87px;margin: 25px 0px 0px 153px;
+background:url(../../../images/other/konka.png) no-repeat scroll center center  transparent;background-size:100%;-moz-background-size:100%;}
+/* .newloginLogoIconCss{
+	background:url(../../images/other/azld.png) no-repeat scroll center center  transparent;
+} */
+.welcomeCss{
+	background:url(../../../images/systemVersion/AD/title.png) no-repeat scroll center center  transparent;
+}
+.welCls{
+	background:url(../../../images/systemVersion/AD/title_en.png) no-repeat scroll center center  transparent;
+}
+.loginIconCss{background:url(../../../images/imgPanel2.png) no-repeat scroll -218px -440px  transparent; }
+.butFontIconCss{  color: white; font-size: 18px; font-family: 微软雅黑,宋体;letter-spacing:2px }
+
+.tipFontCls{color: #FF9393;padding:2px;font-size: 12px;background: rgba(0,0,0,0.5); Filter:alpha(opacity=70);Opacity:0.7;  -webkit-border-radius: 5px;-moz-border-radius:5px;	-ms-border-radius: 5px;-o-border-radius:5px;border-radius:5px;}
+
+.fieldInputCls{font-weight: bold; font-size: 16px; font-family: -webkit-pictograph; }
+.x-form-empty-field, textarea.x-form-empty-field{font-size:13px;}
+body{text-align:center;}
+
+#loginpanel #loginpanel-body{background: none; }
+#registerpanel #registerpanel-body{background: none; }
+#loginpanel{top:100px;}
+#registerpanel{top:100px;}
+.skinCss{
+		background:transparent;
+	font-size:16px;
+	line-height:24px;
+	background:transparent;
+ 	background:url(../../../images/other/skin_b.png) no-repeat scroll center center  transparent; 
+}
+.danSkCls{
+	background:url(../../../images/other/skin_a.png) no-repeat scroll center center  transparent;
+}
+.lanCCls{
+	background:transparent;
+	height:24px;
+	font-size:16px;
+	line-height:24px;
+	padding:0px 10px;
+	border-right: #000 2px solid;
+	color: #000;
+}
+.lanCCls_jl{
+	background:transparent;
+	height:24px;
+	font-size:16px;
+	line-height:24px;
+	padding:0px 10px;
+	border-right: #17A89B 2px solid;
+	color: #9DA4AD;
+	font-weight: bold;
+}
+.lanECls{
+	background:transparent;
+	height:24px;
+	font-size:16px;
+	line-height:24px;
+	padding:0px 0px 0px 10px;
+	color: #000;
+}
+.lanECls_jl{
+	background:transparent;
+	height:24px;
+	font-size:16px;
+	line-height:24px;
+	font-weight: bold;
+	padding:0px 0px 0px 10px;
+	color: #9DA4AD;
+}
+.tlogin{
+	color: #6a9bf5;
+	font-size:14px;
+}
+.dangCls{
+	color: #6a9bf5;
+}	
+.dangCls_jl {
+	color: #17A89B;
+}
+.inpuNcss{
+	background-color: #EDEDED;
+	border-radius:2px;
+}
+.inpuMcss{
+	background-color: #EDEDED;
+	border-radius:2px;
+}
+.userCss{
+	background:url(../../../images/other/acco.png) no-repeat scroll center center  transparent;
+}
+.userCss_jl{
+	background:url(../../../images/other/acco_jl.png) no-repeat scroll center center  transparent;
+	background-size: 22px;
+}
+.passCss{
+	background:url(../../../images/other/keyw.png) no-repeat scroll center center  transparent;
+}
+.passCss_jl{
+	background:url(../../../images/other/keyw_jl.png) no-repeat scroll center center  transparent ;
+    background-size: 17px;
+}
+.DownCls{
+	background:transparent;
+	color:#6a9bf5;
+	cursor:pointer;
+}
+.smsCodeBtnCss{
+/* 	color: white;
+	font-size: 15px;
+	font-family: 微软雅黑,宋体;
+	letter-spacing:2px ;
+	background-color: #8DB3FE;
+	border-radius:2px;
+	cursor: pointer; */
+	background-color: #8DB3FE;
+}
+.newloginIconCss{
+	color: white; font-size: 18px; font-family: 微软雅黑,宋体;letter-spacing:2px ;
+	background-color: #8DB3FE;
+	border-radius:2px;
+}
+.newregisterIconCss{
+	color: white; font-size: 18px; font-family: 微软雅黑,宋体;letter-spacing:2px ;
+	background-color: #6a9bf5;
+	border-radius:2px;
+}
+.newloginIconCss,.newregisterIconCss:hover{
+	background-color: #6a9bf5;
+}
+/**-------------------------沙县小吃定制登录页面------------------------------------**/
+.emedia_panelBodyCls{background: url(../../../images/systemVersion/AD/emedia_backgroud.png);}
+.loginLogoIconCss_emedia{
+	background:url(../../../images/other/loginLogo_emedia.png) no-repeat scroll center center  transparent;
+	background-size:87px 53px;
+	-moz-background-size:87px 53px;
+}
+.emedialoginIconCss{
+	color: white; font-size: 18px; font-family: 微软雅黑,宋体;letter-spacing:2px ;
+	background-color: #dd7c7e;
+	border-radius:2px;
+}
+.emediaregisterIconCss{
+	color: white; font-size: 18px; font-family: 微软雅黑,宋体;letter-spacing:2px ;
+	background-color: #dd7c7e;
+	border-radius:2px;
+}
+/* .emedialoginIconCss,.emediaregisterIconCss:hover{
+	background-color: #dd7c7e;
+} */
+
+.desizeCls{font-size: 14px;}
+.decolorCls{color: #6a9bf5;}
+.degreycolorCls{color: #999999;}
+.labelCls{font-size: 16px; color: #000000; font-weight: 750; padding-top: 10px;}
+.fieldBodyCls .x-form-text{font-size: 12px; color: #525252; border: none; background: transparent; border-bottom: 1px solid gray;}
+.baseBodyCls .x-form-item-input-row .x-field-label-cell{text-align: right}
+#ewmid-body{background: transparent;}
+#ewmid2-body{background: transparent;}
+.welc{font-size:20px;}
+.loginBtn {
+	border-radius: 25px!important;
+	background: #17A89B;
+}
