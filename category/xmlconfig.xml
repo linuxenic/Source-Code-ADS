@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- （每个用户只能查看各自的素材）保存系统中所有的素材分类xml文件 -->
+<uxmls ID="0">
+  <user-xml ID="1">
+    <ID>1</ID>
+    <name>USER_XML_1</name>
+  </user-xml>
+</uxmls>
